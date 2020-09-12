@@ -81,10 +81,10 @@ Free users only 1 request per 30 minutes.
 About = """Hi __{}__,
 ➢<b>MY NAME:</b> <code> HOTSTAR DOWNLOADER BOT</code> 
 ➢<b>LANGUAGE:</b> <code>Python 3</code>
-➢<b>LIBRARY:</b> [Pyrogram](https://docs.pyrogram.org/)
-➢<b>CREATE BY:</b> [Me nehi Bataunga](https://t.me/MaxxWizard_bot)
+➢<b>LIBRARY:</b>[Pyrogram](https://docs.pyrogram.org/)
+➢<b>CREATE BY:</b>[Me nehi Bataunga](https://t.me/MaxxWizard_bot)
 ➢<b>CREDIT:</b> </code>Everyone in this journey</code>
-➢<b>CHANNEL:</b> [MaxxBots](https://t.me/MaxxBots)
+➢<b>CHANNEL:</b>[MaxxBots](https://t.me/MaxxBots)
 ➢<b>DISCUSSION GROUP:</b> [MAXX BOT SUPPORT](https://t.me/MaxxBotChat)
-➢<b>SOURCE CODE:</b>[BOT SOURCE CODE](https://telegra.ph/SOURCE-CODE-OF-BOT-09-12)"""
+➢<b>SOURCE CODE:</b>[BOT SOURCE CODE](https://telegra.ph/SOURCE-CODE-OF-BOT-09-12)
 ➢<b>SUPPORT SITE:</b>[HOTSTAR](https://www.hotstar.com/)"""
