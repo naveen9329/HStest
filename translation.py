@@ -1,8 +1,8 @@
 class Translation(object):
     START_TEXT = """Hello <b>{}</b>,
-<code>👨‍🎤I am HOTSTAR Downloader Bot😊  I Will Convert Hotstar Link to Video/File & Mp3😊</code>
+<code>👨‍🎤 I am HOTSTAR Downloader Bot😊  I Will Convert Hotstar Link to Video/File & Mp3😊</code>
  
-<tt>⛔Note: Only Hotstar Free Content Support 😌: and DRM PROTECT Content not support! So don't try</tt>
+⛔<b>Note:Only Hotstar Free Content Support. and DRM PROTECT Content not support! So don't try</b>
 
 <b>👥Bot Maintained by: @MaxxRider</b>
  
@@ -33,7 +33,7 @@ URL | filename | username | password"""
     NO_VOID_FORMAT_FOUND = "ERROR...\n<b>YouTubeDL</b> said: {}"
     USER_ADDED_TO_DB = "User <a href='tg://user?id={}'>{}</a> added to {} till {}."
     CURENT_PLAN_DETAILS = """Hello {},
-😐These are you current plane details 👇
+😐<b>These are you current plane details</b>👇
 Telegram ID: <code>{}</code>
 Plan name: Free User
 Expires on: 31/12/2020"""
@@ -77,3 +77,16 @@ You can use /rename command after receiving file to rename it with custom thumbn
 Free users only 1 request per 30 minutes.
 /upgrade or Try 1800 seconds later."""
     SLOW_URL_DECED = "Gosh that seems to be a very slow URL. Since you were screwing my home, I am in no mood to download this file. Meanwhile, why don't you try this:==> https://shrtz.me/PtsVnf6 and get me a fast URL so that I can upload to Telegram, without me slowing down for other users."
+
+About = """Hi __{}__,
+**📝 Language:** Python 3
+ 
+**🧰 Framework:** Pyrogram
+ 
+**👨‍💻 Developer:** [Anonymous](https://t.me/Ns_AnoNymouS)
+ 
+📮 Channel: [INFOTEL](https://t.me/InFoTel14)
+ 
+**👥 Group:** [INFOTEL GROUP](https://t.me/InFoTelGroup)
+ 
+**💻 Source Code:**[Press Me](https://github.com/Ns-AnoNymouS/TG-RENAMER-BOT)"""
