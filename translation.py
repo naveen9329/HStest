@@ -79,14 +79,13 @@ Free users only 1 request per 30 minutes.
     SLOW_URL_DECED = "Gosh that seems to be a very slow URL. Since you were screwing my home, I am in no mood to download this file. Meanwhile, why don't you try this:==> https://shrtz.me/PtsVnf6 and get me a fast URL so that I can upload to Telegram, without me slowing down for other users."
 
 About = """Hi __{}__,
-**📝 Language:** Python 3
- 
-**🧰 Framework:** Pyrogram
- 
-**👨‍💻 Developer:** [Anonymous](https://t.me/Ns_AnoNymouS)
- 
-📮 Channel: [INFOTEL](https://t.me/InFoTel14)
- 
-**👥 Group:** [INFOTEL GROUP](https://t.me/InFoTelGroup)
- 
-**💻 Source Code:**[Press Me](https://github.com/Ns-AnoNymouS/TG-RENAMER-BOT)"""
+➢<b>MY NAME:</b> <code> HOTSTAR DOWNLOADER BOT</code> 
+➢<b>LANGUAGE:</b> <code>Python 3</code>
+➢<b>LIBRARY:</b> [Pyrogram](https://docs.pyrogram.org/)
+➢<b>CREATE BY:</b> [Me nehi Bataunga](https://t.me/MaxxWizard_bot)
+➢<b>CREDIT:</b> </code>Everyone in this journey</code>
+➢<b>CHANNEL:</b> [MaxxBots](https://t.me/MaxxBots)
+➢<b>DISCUSSION GROUP:</b> [MAXX BOT SUPPORT](https://t.me/MaxxBotChat)
+➢<b>SOURCE CODE</b>[BOT SOURCE CODE](https://telegra.ph/SOURCE-CODE-OF-BOT-09-12)"""
+➢<b>HOST ON:</b>[HEROKU](https://herokuapp.com/)
+➢<b>SUPPORT SITE:</b>[HOTSTAR](https://www.hotstar.com/)"""
