@@ -87,5 +87,4 @@ About = """Hi __{}__,
 ➢<b>CHANNEL:</b> [MaxxBots](https://t.me/MaxxBots)
 ➢<b>DISCUSSION GROUP:</b> [MAXX BOT SUPPORT](https://t.me/MaxxBotChat)
 ➢<b>SOURCE CODE:</b>[BOT SOURCE CODE](https://telegra.ph/SOURCE-CODE-OF-BOT-09-12)"""
-➢<b>SERVER:</b>[HEROKU](https://www.herokuapp.com/)
 ➢<b>SUPPORT SITE:</b>[HOTSTAR](https://www.hotstar.com/)"""
