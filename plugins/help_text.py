@@ -31,7 +31,7 @@ def GetExpiryDate(chat_id):
     return expires_at
 
 
-@pyrogram.Client.on_message(pyrogram.Filters.command(["help", "about"]))
+@pyrogram.Client.on_message(pyrogram.Filters.command(["help"]))
 async def help_user(bot, update):
     # logger.info(update)
     TRChatBase(update.from_user.id, update.text, "/help")
@@ -134,3 +134,11 @@ async def donate(bot, update):
              ]
            )
           )
+@pyrogram.Client.on_message(pyrogram.Filters.command(["about"]))
+async def about(bot, update):
+    await bot.send_message(
+        chat_id=update.chat.id,
+        text=Translation.About.format(update.from_user.first_name),
+        parse_mode="markdown",
+        reply_to_message_id=update.message_id
+    )
